@@ -1,0 +1,13 @@
+.app{
+    margin: 10px 28% auto;
+}
+
+#order input {
+    margin-right: 10px;
+}
+
+.itemh {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}

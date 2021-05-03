@@ -1,0 +1,28 @@
+.App {
+  margin: 50px 400px auto;
+}
+
+.App-header{
+  text-align: center;
+}
+
+input {
+  display: block;
+}
+
+table {
+  margin-top: 20px;
+  border: solid 1px;
+  border-spacing: 5px;
+}
+
+th {
+  background-color: aqua;
+}
+
+button {
+  border: 0;
+  background-color: inherit;
+  text-decoration: underline;
+  font: inherit;
+}

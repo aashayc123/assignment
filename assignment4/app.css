@@ -1,0 +1,15 @@
+.app {
+    margin: 10px 30% auto 30%;
+}
+
+table ,th, tr, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.ordertable tr {
+    cursor: pointer;
+}
+.itemtable{
+    margin-top: 50px;
+}
